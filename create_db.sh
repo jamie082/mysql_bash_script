@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "use root"
+echo "Uses root MySQL login accont"
 mysql --user=root --password new_db << MY_QUERY
-SHOW tables
+SHOW TABLES

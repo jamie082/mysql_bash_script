@@ -1,7 +1,7 @@
 # mysql_bash
 
 # H2
-Bash Script to edit MySQL database
+Bash Script to login to mysql and list MySQL database
 
 
 # What it taught me to do
