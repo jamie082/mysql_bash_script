@@ -1,0 +1,4 @@
+#!/bin/sh
+#! mysql_uptime.sh - report server uptime in seconds
+
+mysql -e STATUS | grep "^Uptime"
