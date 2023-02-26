@@ -1,4 +1,4 @@
-# H2
+# MySQL Bash Script
 Bash Script to login to mysql and query a database
 
 # What it taught me to do
